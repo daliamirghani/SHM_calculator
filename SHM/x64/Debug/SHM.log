@@ -1,0 +1,5 @@
+﻿  SHM.cpp
+C:\Users\lilac\source\repos\SHM\SHM.cpp(33,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lilac\source\repos\SHM\SHM.cpp(8,41): warning C4101: 'periodict': unreferenced local variable
+C:\Users\lilac\source\repos\SHM\SHM.cpp(8,19): warning C4101: 'freq': unreferenced local variable
+  SHM.vcxproj -> C:\Users\lilac\source\repos\SHM\x64\Debug\SHM.exe
